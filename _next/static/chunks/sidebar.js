@@ -572,7 +572,8 @@
                         number: 60,
                         symbol: "%",
                         body: "of cloud workloads will be built and deployed using CDEs by 2026, <a href='https://www.gartner.com/en/newsroom/press-releases/2023-08-16-gartner-places-generative-ai-on-the-peak-of-inflated-expectations-on-the-2023-hype-cycle-for-emerging-technologies' target='_blank'>according to Gartner</a>"
-                    }]
+                    }
+                ]
                 },
                 infrastructure: {
                     title: "Infrastructure that scales with your business",
