@@ -1,4 +1,4 @@
-self.__BUILD_MANIFEST = function(e, s, c, a, t, n, o, g, i, d, r, u, l) {
+self.__BUILD_MANIFEST = function (e, s, c, a, t, n, o, g, i, d, r, u, l) {
     return {
         __rewrites: {
             afterFiles: [],
@@ -19,7 +19,7 @@ self.__BUILD_MANIFEST = function(e, s, c, a, t, n, o, g, i, d, r, u, l) {
         "/changelog/[slug]": [i, d, e, s, a, r, c, "static/chunks/pages/changelog/[slug]-d139ffe74410d3d4.js"],
         "/cloud-development-environments": [e, s, a, t, c, n, "static/chunks/pages/cloud-development-environments-1779a8f5b2140616.js"],
         "/code-in-sandboxes": [e, s, a, t, c, n, "static/chunks/pages/code-in-sandboxes-e173937b4bcf17db.js"],
-        "/codesandbox-for-ios": [e, s, a, t, "static/chunks/2241-46bb9cf6fe0eeac4.js", c, "static/chunks/pages/codesandbox-for-ios-e5fcdb20d1674c05.js"],
+        "/CodeBox-for-ios": [e, s, a, t, "static/chunks/2241-46bb9cf6fe0eeac4.js", c, "static/chunks/pages/CodeBox-for-ios-e5fcdb20d1674c05.js"],
         "/coding-exercises": [e, s, a, t, c, n, "static/chunks/pages/coding-exercises-08607711d5a2f787.js"],
         "/community-newsletter": [e, s, o, c, "static/chunks/pages/community-newsletter-b18cd7d53570dea1.js"],
         "/company": [e, s, a, c, l, "static/chunks/pages/company-db8d2fef0aefea12.js"],
@@ -39,7 +39,7 @@ self.__BUILD_MANIFEST = function(e, s, c, a, t, n, o, g, i, d, r, u, l) {
         "/use-cases": [e, s, a, c, "static/chunks/pages/use-cases-cb5933fd459bc0bc.js"],
         "/vscode-extension": [e, s, c, "static/chunks/pages/vscode-extension-e23bb7c8a5b46932.js"],
         "/[...slug]": [e, s, c, "static/chunks/pages/[...slug]-7253dc5661160809.js"],
-        sortedPages: ["/", "/404", "/_app", "/_error", "/blog", "/blog/category/[slug]", "/blog/tag/[slug]", "/blog/[slug]", "/brand", "/careers", "/changelog", "/changelog/tag/[slug]", "/changelog/[slug]", "/cloud-development-environments", "/code-in-sandboxes", "/codesandbox-for-ios", "/coding-exercises", "/community-newsletter", "/company", "/demo", "/discover", "/enterprise", "/features", "/get-instant-feedback", "/improve-code-reviews", "/learn-and-experiment", "/legal/[...slug]", "/pricing", "/resources", "/support", "/the-state-of-cloud-development-environments-report-2023", "/the-state-of-code-reviews-report-2023", "/use-cases", "/vscode-extension", "/[...slug]"]
+        sortedPages: ["/", "/404", "/_app", "/_error", "/blog", "/blog/category/[slug]", "/blog/tag/[slug]", "/blog/[slug]", "/brand", "/careers", "/changelog", "/changelog/tag/[slug]", "/changelog/[slug]", "/cloud-development-environments", "/code-in-sandboxes", "/CodeBox-for-ios", "/coding-exercises", "/community-newsletter", "/company", "/demo", "/discover", "/enterprise", "/features", "/get-instant-feedback", "/improve-code-reviews", "/learn-and-experiment", "/legal/[...slug]", "/pricing", "/resources", "/support", "/the-state-of-cloud-development-environments-report-2023", "/the-state-of-code-reviews-report-2023", "/use-cases", "/vscode-extension", "/[...slug]"]
     }
 }("static/css/693e5bdb7f516e9f.css", "static/chunks/6511-dc408016fbdc1af0.js", "static/chunks/6589-8fac05454e8554ec.js", "static/chunks/4661-21d188a9d37d1ad2.js", "static/chunks/544-587adb358eca5c7e.js", "static/chunks/4632-302661038f373f74.js", "static/chunks/5086-72d7f5f0ea3bb758.js", "static/chunks/67-1da5764c433cbb2c.js", "static/chunks/60c26aec-0078f7df7ae6b972.js", "static/chunks/c518a461-9ae2603010319acc.js", "static/chunks/4421-1ad8237cf4178401.js", "static/chunks/1837-d92f821e373f9194.js", "static/chunks/2014-8cd05745f9e78780.js"),
-self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB();
+    self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB();

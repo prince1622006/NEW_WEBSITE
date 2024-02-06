@@ -552,7 +552,7 @@
                     cta: n
                 },
                 logos: {
-                    title: "CodeSandbox is used by",
+                    title: "CodeBox is used by",
                     description: "...and 20,000 of the world’s leading engineering teams."
                 },
                 greenSection: {
@@ -587,7 +587,7 @@
                         description: "Foster collaboration with shared environments so you remove silos in your development cycle and provide the ability for your teams to do paired programming via live collaboration in the same environment."
                     }, {
                         title: "Integrated into your workflow",
-                        description: "CodeSandbox Enterprise integrates seamlessly into your software toolchain and processes in a fraction of the time."
+                        description: "CodeBox Enterprise integrates seamlessly into your software toolchain and processes in a fraction of the time."
                     }]
                 },
                 environments: {
@@ -602,23 +602,23 @@
                         icon: "Lock",
                         color: "$purple500",
                         title: "Private Cloud",
-                        description: "Access your own dedicated cloud instance and cluster, managed and hosted by CodeSandbox.",
+                        description: "Access your own dedicated cloud instance and cluster, managed and hosted by CodeBox.",
                         specs: "Up to 64 cores\nUp to 128 GB RAM"
                     }, {
                         icon: "Home",
                         color: "$blue300",
                         title: "Managed On-Premise",
-                        description: "Run CodeSandbox on your own infrastructure and we will manage it from our side.",
+                        description: "Run CodeBox on your own infrastructure and we will manage it from our side.",
                         specs: "Custom cores\nCustom RAM"
                     }],
-                    list: ["Maintained and supported by CodeSandbox at no extra cost", "Choose where we host your data (US, APAC or EMEA)", "IP Locking - make sure only the right people in the right places access your code", "Unlimited storage"]
+                    list: ["Maintained and supported by CodeBox at no extra cost", "Choose where we host your data (US, APAC or EMEA)", "IP Locking - make sure only the right people in the right places access your code", "Unlimited storage"]
                 },
                 secure: {
                     title: "Dependable and secure",
                     list: [{
                         icon: "Lock",
                         title: "Secure environments to code",
-                        description: "CodeSandbox ensures the privacy and security of your code, with flexible permissions, access control, security monitoring, private npm, and more."
+                        description: "CodeBox ensures the privacy and security of your code, with flexible permissions, access control, security monitoring, private npm, and more."
                     }, {
                         icon: "Schedule",
                         title: "99.9% uptime guarantee",
@@ -630,7 +630,7 @@
                     }, {
                         icon: "Info",
                         title: "SOC2 Type II compliance coming soon",
-                        description: "CodeSandbox expects to receive certification by early 2024."
+                        description: "CodeBox expects to receive certification by early 2024."
                     }]
                 },
                 support: {
@@ -642,7 +642,7 @@
                     }, {
                         icon: "Language",
                         title: "Extensive CDE community",
-                        description: "Learn, collaborate and get inspired by our community of 4 million+ developers building the big next thing on CodeSandbox."
+                        description: "Learn, collaborate and get inspired by our community of 4 million+ developers building the big next thing on CodeBox."
                     }, {
                         icon: "Group",
                         title: "Predictable team-based billing",
@@ -675,8 +675,8 @@
                         question: "I’m an individual developer—should I get Enterprise?",
                         answer: "While we don’t have any rules preventing individuals from taking out Enterprise plans, our Pro plan is designed to be a better fit for individuals and smaller teams. You can find more details on our pricing page."
                     }, {
-                        question: "Can I host CodeSandbox in my own environment?",
-                        answer: "Yes, our new Enterprise CDE is introducing the option to have a managed on-premise solution. This will allow you to run CodeSandbox on your own infrastructure so you can customize the virtual machine specifications to your own requirements while avoiding the need for an internal team to manage the CodeSandbox implementation. We will take care of that from our side."
+                        question: "Can I host CodeBox in my own environment?",
+                        answer: "Yes, our new Enterprise CDE is introducing the option to have a managed on-premise solution. This will allow you to run CodeBox on your own infrastructure so you can customize the virtual machine specifications to your own requirements while avoiding the need for an internal team to manage the CodeBox implementation. We will take care of that from our side."
                     }, {
                         question: "What types of VMs will I be able to choose from?",
                         answer: "Depending on your package and needs, we intend to offer 6 different VM hardware combinations to fit most, if not all developer requirements:\n        Nano — 2 VM cores + 4 GB RAM\n        Micro — 4 VM cores + 8 GB RAM\n        Small — 8 VM cores + 16 GB RAM\n        Medium — 16 VM cores + 32 GB RAM\n        Large — 32 VM cores + 64 GB RAM\n        X-Large (Private cloud only) — 64 VM cores + 128 GB RAM"
@@ -684,8 +684,8 @@
                         question: "How much storage do your VMs have?",
                         answer: "All VMs come with 50 GB storage as a minimum."
                     }, {
-                        question: "How does CodeSandbox spin up a project in 2 seconds?",
-                        answer: "This happens as a result of our memory snapshotting technology that works similarly in principle to how laptops wake up after being left idle for a period of time. Our VMs can hibernate and resume exactly where they left off within 2 seconds.\n        \n        We automatically create a VM for every branch in a repository. We then run the dev servers and snapshot it so you’ll have a fast experience whenever you open a branch.\n        \n        The first time you import a project to CodeSandbox, it will take longer to start as the VM will have to go through the start-up steps for the project. After that though every subsequent start will resume from the VM memory which takes 2 seconds on average, creating a real-world experience for you and your team where you will be able to spin up an environment in 2 seconds on a daily basis."
+                        question: "How does CodeBox spin up a project in 2 seconds?",
+                        answer: "This happens as a result of our memory snapshotting technology that works similarly in principle to how laptops wake up after being left idle for a period of time. Our VMs can hibernate and resume exactly where they left off within 2 seconds.\n        \n        We automatically create a VM for every branch in a repository. We then run the dev servers and snapshot it so you’ll have a fast experience whenever you open a branch.\n        \n        The first time you import a project to CodeBox, it will take longer to start as the VM will have to go through the start-up steps for the project. After that though every subsequent start will resume from the VM memory which takes 2 seconds on average, creating a real-world experience for you and your team where you will be able to spin up an environment in 2 seconds on a daily basis."
                     }]
                 },
                 footer: {
@@ -744,7 +744,7 @@
                     blurHeight: 8
                 }
             }, {
-                phrase: "The most interesting part of Codesandbox is just how perfectly it makes coding in the cloud just work.",
+                phrase: "The most interesting part of CodeBox is just how perfectly it makes coding in the cloud just work.",
                 name: "Leo Petrucci",
                 title: "Designer / UI Engineer",
                 avatar: {
@@ -769,7 +769,7 @@
                     blurHeight: 8
                 }
             }, {
-                phrase: "The new CodeSandbox is the first online editor I can see myself using to build a full project.",
+                phrase: "The new CodeBox is the first online editor I can see myself using to build a full project.",
                 name: "Matthew Phillips",
                 title: "Co-creator of Astro",
                 avatar: {

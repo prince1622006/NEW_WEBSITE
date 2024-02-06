@@ -91,7 +91,7 @@
                                                             maxWidth: 1200
                                                         }
                                                     },
-                                                    children: "CodeSandbox gives you 24/7 collaborative cloud development environments (CDEs) that resume in 2 seconds."
+                                                    children: "CodeBox gives you 24/7 collaborative cloud development environments (CDEs) that resume in 2 seconds."
                                                 })
                                         }), (0,
                                             t.jsx)(a.Uo, {
@@ -137,7 +137,7 @@
             customIcon: (0,
                 t.jsx)(h.BY, {}),
             title: "Collaborative 24/7",
-            description: "CodeSandbox is the only fully collaborative CDE. Your entire team can connect to the same environment and code live, together, anytime."
+            description: "CodeBox is the only fully collaborative CDE. Your entire team can connect to the same environment and code live, together, anytime."
         }, {
             customIcon: (0,
                 t.jsx)(h.HE, {}),
@@ -308,8 +308,8 @@
                 t.jsxs)(t.Fragment, {
                     children: [(0,
                         t.jsx)(s.Fb, {
-                            title: "CodeSandbox: Instant Cloud Development Environments",
-                            description: "CodeSandbox is a cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time."
+                            title: "CodeBox: Instant Cloud Development Environments",
+                            description: "CodeBox is a cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time."
                         }), (0,
                             t.jsx)(s.h4, {}), (0,
                                 t.jsx)(s.hK, {}), (0,

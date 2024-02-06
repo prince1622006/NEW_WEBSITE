@@ -485,13 +485,13 @@
                 blurHeight: 0
             },
             color: "white",
-            link: "/p/github/codesandbox/codesandbox-template-vite-react/"
+            link: "/p/github/CodeBox/CodeBox-template-vite-react/"
         }, {
             title: "Next.js",
             description: "Next.js project bootstrapped with create-next-app.",
             icon: g,
             color: "white",
-            link: "/p/github/codesandbox/codesandbox-template-next.js/"
+            link: "/p/github/CodeBox/CodeBox-template-next.js/"
         }, {
             title: "Vue + Vite",
             description: "This template should help get you started developing with Vue 3 in Vite.",
@@ -503,7 +503,7 @@
                 blurHeight: 0
             },
             color: "white",
-            link: "/p/github/codesandbox/codesandbox-template-vue"
+            link: "/p/github/CodeBox/CodeBox-template-vue"
         }, {
             title: "Angular",
             description: "Experiment with Angular and prototype your web app quickly.",
@@ -527,7 +527,7 @@
                 blurHeight: 0
             },
             color: "#00DC82",
-            link: "/p/github/codesandbox/codesandbox-template-nuxt/"
+            link: "/p/github/CodeBox/CodeBox-template-nuxt/"
         }, {
             title: "SvelteKit",
             description: "SvelteKit project bootstrapped using the Svelte CLI.",
@@ -539,7 +539,7 @@
                 blurHeight: 0
             },
             color: "#FF3E00",
-            link: "/p/github/codesandbox/codesandbox-template-svelte-kit"
+            link: "/p/github/CodeBox/CodeBox-template-svelte-kit"
         }, {
             title: "Remix",
             description: "Remix project bootstrapped from the official template.",
@@ -551,19 +551,19 @@
                 blurHeight: 0
             },
             color: "white",
-            link: "/p/github/codesandbox/codesandbox-template-remix/"
+            link: "/p/github/CodeBox/CodeBox-template-remix/"
         }, {
             title: "Gatsby",
             description: "Gatsby project bootstrapped with create-gatsby.",
             icon: h,
             color: "#663399",
-            link: "/p/github/codesandbox/codesandbox-template-gatsby/"
+            link: "/p/github/CodeBox/CodeBox-template-gatsby/"
         }, {
             title: "Astro Blog",
             description: "Astro starter project to help you quickly code your new blog.",
             icon: d,
             color: "white",
-            link: "/p/github/codesandbox/blog-example"
+            link: "/p/github/CodeBox/blog-example"
         }, {
             title: "Next.js Commerce",
             description: "All-in-one starter kit for an E-commerce project powered by Next.js.",
@@ -575,7 +575,7 @@
             description: "Web crawler built with Node.js + TS + Cheerio.",
             icon: h,
             color: "white",
-            link: "/p/github/codesandbox/Site-Image-Crawler-with-node/"
+            link: "/p/github/CodeBox/Site-Image-Crawler-with-node/"
         }, {
             title: "React TypeScript",
             description: "React and TypeScript example starter project.",
@@ -587,7 +587,7 @@
             description: "Blank TypeScript project.",
             icon: u,
             color: "#007ACC",
-            link: "/p/github/codesandbox/codesandbox-template-blank-ts/"
+            link: "/p/github/CodeBox/CodeBox-template-blank-ts/"
         }, {
             title: "Deno",
             description: "Server starter project based on the Deno runtime.",
@@ -599,13 +599,13 @@
                 blurHeight: 0
             },
             color: "white",
-            link: "/p/github/codesandbox/codesandbox-template-deno-server/"
+            link: "/p/github/CodeBox/CodeBox-template-deno-server/"
         }, {
             title: "Astro Starter",
             description: "Simple Astro project to help you build a fast, content-focused website.",
             icon: d,
             color: "white",
-            link: "/p/github/codesandbox/codesandbox-template-astro/"
+            link: "/p/github/CodeBox/CodeBox-template-astro/"
         }]
             , x = (0,
                 l.zo)(s.m4, {
@@ -1146,7 +1146,7 @@
         let j = {
             sandboxes: {
                 title: "Many reasons to start now.",
-                body: "CodeSandbox is made by developers for developers to deliver a streamlined experience and leave all the boring stuff out of the workflow. Just focus on what you love to do: code your amazing ideas.",
+                body: "CodeBox is made by developers for developers to deliver a streamlined experience and leave all the boring stuff out of the workflow. Just focus on what you love to do: code your amazing ideas.",
                 cta: "Start coding now",
                 link: "/s",
                 items: [{
@@ -1183,7 +1183,7 @@
             },
             repositories: {
                 title: "Many reasons to start now.",
-                body: "CodeSandbox streamlines your git workflow and saves you hours every week by automating tasks. Import a repo and bring your workflow to a whole new level.",
+                body: "CodeBox streamlines your git workflow and saves you hours every week by automating tasks. Import a repo and bring your workflow to a whole new level.",
                 cta: "Import a repo",
                 link: "/s",
                 items: [{
@@ -1461,7 +1461,7 @@
                                                 },
                                                 children: [(0,
                                                     n.jsx)(w(), {
-                                                        alt: "CodeSandbox",
+                                                        alt: "CodeBox",
                                                         src: C,
                                                         width: 1920,
                                                         height: 1080,
@@ -1479,7 +1479,7 @@
                                                             },
                                                             children: (0,
                                                                 n.jsx)(w(), {
-                                                                    alt: "CodeSandbox",
+                                                                    alt: "CodeBox",
                                                                     src: k,
                                                                     width: 526,
                                                                     height: 297,
@@ -1498,7 +1498,7 @@
                                                                 },
                                                                 children: (0,
                                                                     n.jsx)(w(), {
-                                                                        alt: "CodeSandbox",
+                                                                        alt: "CodeBox",
                                                                         src: O,
                                                                         width: 854,
                                                                         height: 481,
@@ -1517,7 +1517,7 @@
                                                                     },
                                                                     children: (0,
                                                                         n.jsx)(w(), {
-                                                                            alt: "CodeSandbox",
+                                                                            alt: "CodeBox",
                                                                             src: D,
                                                                             width: 884,
                                                                             height: 496,
@@ -2380,7 +2380,7 @@
                     children: (0,
                         n.jsx)(w(), {
                             src: A.image ? A.image : At,
-                            alt: "CodeSandbox",
+                            alt: "CodeBox",
                             style: {
                                 width: "100%",
                                 height: "auto"
@@ -2497,8 +2497,8 @@
                     })
             })
             , Aa = {
-                title: "Why CodeSandbox?",
-                description: "Millions of developers, designers, product managers and engineering managers love and trust CodeSandbox.",
+                title: "Why CodeBox?",
+                description: "Millions of developers, designers, product managers and engineering managers love and trust CodeBox.",
                 list: [{
                     icon: "fact_check",
                     title: "Empowering",
@@ -3819,7 +3819,7 @@
                 subBody: "",
                 list: [{
                     customIcon: E.Tf,
-                    title: "CodeSandbox GitHub App",
+                    title: "CodeBox GitHub App",
                     description: "We provision always-running environments for every PR, making it easy for anyone to open it and immediately start reviewing your code, no setup needed."
                 }, {
                     icon: "web_asset",
@@ -3828,7 +3828,7 @@
                 }, {
                     icon: "table",
                     title: "Add databases and servers",
-                    description: "Because we run Docker, you can configure your database to run in CodeSandbox. This way, you have a unique database for every pull request and every branch."
+                    description: "Because we run Docker, you can configure your database to run in CodeBox. This way, you have a unique database for every pull request and every branch."
                 }],
                 cta: "Install our GitHub App",
                 link: "/docs/learn/integrations/github-app"

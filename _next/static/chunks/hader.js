@@ -992,8 +992,8 @@
             , i = n.n(r)
             , a = n(4125)
             , l = n(959);
-        let s = "CodeSandbox: Code, Review and Deploy in Record Time"
-            , c = "CodeSandbox is a cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time."
+        let s = "CodeBox: Code, Review and Deploy in Record Time"
+            , c = "CodeBox is a cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time."
             , d = e => {
                 let { title: t, description: n, image: r } = e
                     , d = (0,
@@ -1091,7 +1091,7 @@
                                                             }), (0,
                                                                 o.jsx)("meta", {
                                                                     property: "og:site_name",
-                                                                    content: "CodeSandbox"
+                                                                    content: "CodeBox"
                                                                 }), (0,
                                                                     o.jsx)("meta", {
                                                                         property: "og:type",
@@ -1099,7 +1099,7 @@
                                                                     }), (0,
                                                                         o.jsx)("meta", {
                                                                             name: "twitter:site",
-                                                                            content: "@codesandbox"
+                                                                            content: "@CodeBox"
                                                                         }), (0,
                                                                             o.jsx)("meta", {
                                                                                 name: "twitter:card",
@@ -1886,7 +1886,7 @@
                 }, {
                     icon: "diversity_4",
                     label: "Community",
-                    href: "https://www.codesandbox.community/",
+                    href: "https://www.CodeBox.community/",
                     target: "_blank",
                     description: "Engage with other community members."
                 }, {
@@ -1942,7 +1942,7 @@
                                                     o.jsx)(y, {
                                                         as: "a",
                                                         href: "/",
-                                                        "aria-label": "CodeSandbox",
+                                                        "aria-label": "CodeBox",
                                                         children: (0,
                                                             o.jsxs)(X, {
                                                                 align: "center",
@@ -1960,7 +1960,7 @@
                                                                                     display: "none"
                                                                                 }
                                                                             },
-                                                                            children: "CodeSandbox"
+                                                                            children: "CodeBox"
                                                                         })]
                                                             })
                                                     }), (0,
@@ -2412,85 +2412,80 @@
                     }
                 })
             , T = e => (0,
-                o.jsx)(L, {
-                    ...e,
-                    children: (0,
-                        o.jsxs)(Z, {
-                            children: [(0,
-                                o.jsxs)(X, {
-                                    flow: {
-                                        "@initial": "column",
-                                        "@sm": "row"
-                                    },
-                                    align: "center",
-                                    gap: {
-                                        "@initial": 0,
-                                        "@sm": 2
-                                    },
-                                    children: [(0,
-                                        o.jsx)(I, {
-                                            color: "default",
-                                            children: "New"
-                                        }), " ", (0,
-                                            o.jsx)(Text, {
-                                                as: "h3",
-                                                lineHeight: {
-                                                    "@initial": "140",
-                                                    "@sm": "100"
-                                                },
-                                                size: 14,
-                                                css: {
-                                                    color: "$neutral800",
-                                                    marginTop: "$1",
-                                                    "@sm": {
-                                                        marginTop: 0
-                                                    }
-                                                },
-                                                children: "Special launch offer!"
-                                            }), " ", (0,
-                                                o.jsxs)(Text, {
-                                                    as: "p",
-                                                    lineHeight: {
-                                                        "@initial": "140",
-                                                        "@sm": "100"
-                                                    },
-                                                    size: 12,
-                                                    css: {
-                                                        color: "$neutral800"
-                                                    },
-                                                    children: ["50% off for 1 month of Pro, with coupon ", (0,
-                                                        o.jsx)("strong", {
-                                                            children: "CDELAUNCH"
-                                                        }), " ", "(valid until Feb 12th at 7:59 am GMT)"]
-                                                })]
-                                }), (0,
-                                    o.jsxs)(p, {
-                                        css: {
-                                            color: "$lime600",
-                                            background: "$neutral600"
-                                        },
-                                        size: "small",
-                                        as: "a",
-                                        href: "/upgrade?utm_source=stripe",
-                                        target: "_blank",
-                                        children: ["Get Pro", " ", (0,
-                                            o.jsx)("svg", {
-                                                width: "12",
-                                                height: "11",
-                                                viewBox: "0 0 24 25",
-                                                fill: "none",
-                                                xmlns: "http://www.w3.org/2000/svg",
-                                                children: (0,
-                                                    o.jsx)("path", {
-                                                        fillRule: "evenodd",
-                                                        clipRule: "evenodd",
-                                                        d: "M5.96967 1.96967C6.26256 1.67678 6.73744 1.67678 7.03033 1.96967L16.5 11.4393C17.0858 12.0251 17.0858 12.9749 16.5 13.5607L7.03033 23.0303C6.73744 23.3232 6.26256 23.3232 5.96967 23.0303C5.67678 22.7375 5.67678 22.2626 5.96967 21.9697L15.4394 12.5L5.96967 3.03033C5.67678 2.73744 5.67678 2.26256 5.96967 1.96967Z",
-                                                        fill: "currentColor"
-                                                    })
-                                            })]
-                                    })]
-                        })
-                })
+                o.jsx)
+            // (L, {
+            //     ...e,
+            //     children: (0,
+            //         o.jsxs)(Z, {
+            //             children: [(0,
+            //                 o.jsxs)(X, {
+            //                     flow: {
+            //                         "@initial": "column",
+            //                         "@sm": "row"
+            //                     },
+            //                     align: "center",
+            //                     gap: {
+            //                         "@initial": 0,
+            //                         "@sm": 2
+            //                     },
+            //                     children: [(0,
+            //                         o.jsx)(I, {
+            //                             color: "default",
+            //                             children: "New"
+            //                         }), " ", (0,
+            //                             o.jsx)(Text, {
+            //                                 as: "h3",
+            //                                 lineHeight: {
+            //                                     "@initial": "140",
+            //                                     "@sm": "100"
+            //                                 },
+            //                                 size: 14,
+            //                                 css: {
+            //                                     color: "$neutral800",
+            //                                     marginTop: "$1",
+            //                                     "@sm": {
+            //                                         marginTop: 0
+            //                                     }
+            //                                 },
+            //                                 // children: "Special launch offer!"
+            //                             }), " ", (0,
+            //                                 o.jsxs)(Text, {
+            //                                     as: "p",
+            //                                     lineHeight: {
+            //                                         "@initial": "140",
+            //                                         "@sm": "100"
+            //                                     },
+
+
+            //                                 })]
+            //                 }), (0,
+            //                     o.jsxs)(p, {
+            //                         css: {
+            //                             color: "$lime600",
+            //                             background: "$neutral600"
+            //                         },
+            //                         size: "small",
+            //                         as: "a",
+            //                         href: "/upgrade?utm_source=stripe",
+            //                         target: "_blank",
+            //                         children: ["Get Pro", " ", (0,
+            //                             o.jsx)("svg", {
+            //                                 width: "12",
+            //                                 height: "11",
+            //                                 viewBox: "0 0 24 25",
+            //                                 fill: "none",
+            //                                 xmlns: "http://www.w3.org/2000/svg",
+            //                                 children: (0,
+            //                                     o.jsx)("path", {
+            //                                         fillRule: "evenodd",
+            //                                         clipRule: "evenodd",
+            //                                         d: "M5.96967 1.96967C6.26256 1.67678 6.73744 1.67678 7.03033 1.96967L16.5 11.4393C17.0858 12.0251 17.0858 12.9749 16.5 13.5607L7.03033 23.0303C6.73744 23.3232 6.26256 23.3232 5.96967 23.0303C5.67678 22.7375 5.67678 22.2626 5.96967 21.9697L15.4394 12.5L5.96967 3.03033C5.67678 2.73744 5.67678 2.26256 5.96967 1.96967Z",
+            //                                         fill: "currentColor"
+            //                                     })
+            //                             })]
+            //                     })]
+            //         })
+            // })
             , I = (0,
                 g.zo)("span", {
                     borderRadius: "$rounded",
@@ -2722,11 +2717,11 @@
                     href: "/vscode-extension"
                 }, {
                     label: "Sandpack",
-                    href: "https://sandpack.codesandbox.io/",
+                    href: "https://sandpack.CodeBox.io/",
                     target: "_blank"
                 }, {
                     label: "Status",
-                    href: "https://status.codesandbox.io/",
+                    href: "https://status.CodeBox.io/",
                     target: "_blank"
                 }, {
                     label: "Enterprise",
@@ -2770,12 +2765,12 @@
             , J = [{
                 label: "Github",
                 component: V.Tf,
-                href: "https://github.com/codesandbox/codesandbox-client",
+                href: "https://github.com/CodeBox/CodeBox-client",
                 target: "_blank"
             }, {
                 label: "Twitter",
                 component: V.tL,
-                href: "https://twitter.com/codesandbox",
+                href: "https://twitter.com/CodeBox",
                 target: "_blank"
             }, {
                 label: "Discord",
@@ -2785,7 +2780,7 @@
             }, {
                 label: "YouTube",
                 component: V._F,
-                href: "https://www.youtube.com/c/CodeSandbox",
+                href: "https://www.youtube.com/c/CodeBox",
                 target: "_blank"
             }]
             , G = [{
@@ -2824,7 +2819,7 @@
                                                 children: (0,
                                                     o.jsx)(O, {
                                                         href: "/",
-                                                        "aria-label": "Go to CodeSandbox home page",
+                                                        "aria-label": "Go to CodeBox home page",
                                                         children: (0,
                                                             o.jsx)(m.eg, {
                                                                 symbol: !0,
@@ -2914,7 +2909,7 @@
                                                                 css: {
                                                                     color: "$foreground700"
                                                                 },
-                                                                children: ["Copyright \xa9 ", new Date().getFullYear(), " CodeSandbox B.V. All rights reserved."]
+                                                                children: ["Copyright \xa9 ", new Date().getFullYear(), " CodeBox B.V. All rights reserved."]
                                                             }), (0,
                                                                 o.jsx)("br", {}), (0,
                                                                     o.jsx)(B, {
@@ -3402,7 +3397,7 @@
             }, {
                 name: "Ed",
                 team: "Design",
-                username: "ed-codesandbox",
+                username: "ed-CodeBox",
                 image: "/new/images/avatar/ed.jpg",
                 color: "#D497FC"
             }, {
